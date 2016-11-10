@@ -8,4 +8,7 @@
 	<event type="death" name="PlayerDeath" script="playerdeath.lua" />
 	<event type="death" name="DropLoot" script="droploot.lua" />
 	<event type="extendedopcode" name="ExtendedOpcode" script="extendedopcode.lua" />
+
+	<!-- Custom -->
+	<event type="modalwindow" name="ModalWindowHelper" script="modalwindowhelper.lua" />
 </creaturescripts>

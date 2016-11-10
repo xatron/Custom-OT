@@ -44,7 +44,6 @@
 	<talkaction words="!online" script="online.lua" />
 	<talkaction words="!serverinfo" script="serverinfo.lua" />
 
-	<!-- test talkactions -->
-	<talkaction words="!z" separator=" " script="magiceffect.lua" />
-	<talkaction words="!x" separator=" " script="animationeffect.lua" />
+	<!-- Custom -->
+	<talkaction words="!character" script="character.lua" />
 </talkactions>
