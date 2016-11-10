@@ -8,5 +8,6 @@ function onStepIn(creature, item, position, fromPosition)
 		local town = Town(item.actionid - 30020)
 		player:setTown(town)
 	end
+
 	return true
 end
