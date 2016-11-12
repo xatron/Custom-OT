@@ -1399,11 +1399,10 @@
 		<attribute key="maxTextLen" value="1023" />
 		<attribute key="writeOnceItemId" value="1954" />
 	</item>
-	<item id="1948" article="a" name="parchment">
-		<attribute key="weight" value="200" />
-		<attribute key="description" value="It is rewriteable." />
-		<attribute key="writeable" value="1" />
-		<attribute key="maxTextLen" value="1023" />
+	<item id="1948" article="a" name="simple experience scroll">
+		<attribute key="weight" value="1" />
+		<attribute key="description" value="You gain 20% experience in 1 hour from this scroll." />
+		<attribute key="writeable" value="0" />
 	</item>
 	<item id="1949" article="a" name="scroll">
 		<attribute key="weight" value="50" />
@@ -31200,4 +31199,6 @@
 	<item id="30028" name="swamp" />
 	<item id="30035" name="tea" />
 	<item id="30043" name="mead" />
+
+	<item id="22791" article="a" name="ghotic wall" />
 </items>
