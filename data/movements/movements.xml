@@ -4,7 +4,8 @@
 	<movevent event="StepIn" itemid="293" script="decay.lua" />
 	<movevent event="StepIn" itemid="461" script="decay.lua" />
 
-	<!-- Level Teleport -->
+	<!-- Level teleports -->
+	<movevent event="StepIn" itemid="1387" script="levelteleport.lua" />
 
 	<!-- (Depot & Level) tiles -->
 	<movevent event="StepIn" itemid="416" script="tiles.lua" />
@@ -28,7 +29,7 @@
 	<movevent event="StepOut" itemid="4209" script="trap.lua" />
 
 	<!-- Citizen teleport -->
-	<movevent event="StepIn" itemid="1387" script="citizen.lua" />
+	<!-- <movevent event="StepIn" itemid="1387" script="citizen.lua" /> -->
 
 	<!-- Walkback when walking on quest chest -->
 	<movevent event="StepIn" itemid="1738" script="walkback.lua" />
