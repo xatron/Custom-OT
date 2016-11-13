@@ -11,4 +11,5 @@
 
 	<!-- Custom -->
 	<event type="modalwindow" name="ModalWindowHelper" script="modalwindowhelper.lua" />
+	<event type="kill" name="Tasks" script="killtasks.lua"/>
 </creaturescripts>
