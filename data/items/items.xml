@@ -457,7 +457,7 @@
 		<attribute key="floorchange" value="north" />
 	</item>
 	<item id="1386" article="a" name="ladder" />
-	<item id="1387" article="a" name="magic forcefield">
+	<item id="1387" article="a" name="teleport">
 		<attribute key="description" value="You can see the other side through it." />
 		<attribute key="type" value="teleport" />
 		<attribute key="effect" value="teleport" />
@@ -31202,6 +31202,11 @@
 
 	<!-- Custom items -->
 	<item id="22791" article="a" name="ghotic wall" />
+	<item id="22904" article="a" name="stone floor" />
+	<item id="24949" article="a" name="tree" />
+	<item id="20232" article="a" name="painting" />
+	<item id="26380" article="a" name="banner" />
+	<item id="26074" article="a" name="table" />
 	<item id="25417" article="a" name="magic forcefield">
 		<attribute key="description" value="You can see the other side through it." />
 		<attribute key="type" value="teleport" />
@@ -31212,5 +31217,10 @@
 		<attribute key="rotateTo" value="1748" />
 		<attribute key="containerSize" value="8" />
 		<attribute key="destroyTo" value="2251" />
+	</item>
+	<item id="26181" article="a" name="mooji backpack">
+		<attribute key="weight" value="1800" />
+		<attribute key="containerSize" value="20" />
+		<attribute key="slotType" value="backpack" />
 	</item>
 </items>
