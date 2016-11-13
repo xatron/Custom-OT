@@ -1,5 +1,41 @@
 <?xml version="1.0"?>
 <spawns>
+	<spawn centerx="1519" centery="422" centerz="4" radius="1">
+		<monster name="Orc" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1522" centery="422" centerz="4" radius="1">
+		<monster name="Dwarf" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1525" centery="422" centerz="4" radius="1">
+		<monster name="Elf" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1515" centery="426" centerz="4" radius="1">
+		<monster name="Wolf" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1529" centery="426" centerz="4" radius="1">
+		<monster name="Minotaur" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1515" centery="429" centerz="4" radius="1">
+		<monster name="Troll" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1529" centery="429" centerz="4" radius="1">
+		<monster name="Pirate Buccaneer" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1515" centery="432" centerz="4" radius="1">
+		<monster name="Bear" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1529" centery="432" centerz="4" radius="1">
+		<monster name="Amazon" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1519" centery="436" centerz="4" radius="1">
+		<monster name="Larva" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1522" centery="436" centerz="4" radius="1">
+		<monster name="Mummy" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1525" centery="436" centerz="4" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
 	<spawn centerx="1007" centery="888" centerz="7" radius="1">
 		<monster name="Dragon" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -41,5 +77,11 @@
 	</spawn>
 	<spawn centerx="969" centery="919" centerz="7" radius="1">
 		<monster name="Orc Warrior" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1000" centery="923" centerz="7" radius="1">
+		<npc name="Easy_Tasks" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="984" centery="993" centerz="7" radius="1">
+		<npc name="Goblin_Bank" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
 </spawns>
