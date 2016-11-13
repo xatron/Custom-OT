@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="1007" centery="888" centerz="7" radius="1">
+		<monster name="Dragon" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1031" centery="888" centerz="7" radius="1">
+		<monster name="Demon" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1024" centery="890" centerz="7" radius="1">
+		<monster name="Demon" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1001" centery="891" centerz="7" radius="1">
+		<monster name="Dragon" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1009" centery="894" centerz="7" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1020" centery="895" centerz="7" radius="1">
+		<monster name="Demon" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1015" centery="897" centerz="7" radius="1">
+		<monster name="Draken Abomination" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="973" centery="901" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="974" centery="906" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="980" centery="908" centerz="7" radius="1">
+		<monster name="Rat" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="968" centery="911" centerz="7" radius="1">
+		<monster name="Orc" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="966" centery="915" centerz="7" radius="1">
+		<monster name="Orc Warrior" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="961" centery="918" centerz="7" radius="1">
+		<monster name="Orc Warrior" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="969" centery="919" centerz="7" radius="1">
+		<monster name="Orc Warrior" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+</spawns>
