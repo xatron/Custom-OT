@@ -31200,5 +31200,17 @@
 	<item id="30035" name="tea" />
 	<item id="30043" name="mead" />
 
+	<!-- Custom items -->
 	<item id="22791" article="a" name="ghotic wall" />
+	<item id="25417" article="a" name="magic forcefield">
+		<attribute key="description" value="You can see the other side through it." />
+		<attribute key="type" value="teleport" />
+		<attribute key="effect" value="teleport" />
+	</item>
+	<item id="21584" article="a" name="chest">
+		<attribute key="weight" value="12000" />
+		<attribute key="rotateTo" value="1748" />
+		<attribute key="containerSize" value="8" />
+		<attribute key="destroyTo" value="2251" />
+	</item>
 </items>
