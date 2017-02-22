@@ -6,6 +6,7 @@
 
 	<!-- Level teleports -->
 	<movevent event="StepIn" itemid="1387" script="levelteleport.lua" />
+	<movevent event="StepIn" itemid="25417" script="custom_teleport.lua" />
 
 	<!-- (Depot & Level) tiles -->
 	<movevent event="StepIn" itemid="416" script="tiles.lua" />
