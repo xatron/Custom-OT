@@ -163,6 +163,10 @@ function Player:onGainExperience(source, exp, rawExp)
 		end
 	end
 
+	if self:getStorageValue(7300) >= os.time() then
+  		exp = exp * 1.2
+  	end
+
 	return exp
 end
 
