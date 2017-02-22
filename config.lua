@@ -15,7 +15,7 @@ expFromPlayersLevelRange = 75
 
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
-ip = "127.0.0.1"
+ip = "83.253.3.170"
 bindOnlyGlobalAddress = false
 loginProtocolPort = 7171
 gameProtocolPort = 7172

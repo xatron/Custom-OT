@@ -79,9 +79,9 @@
 		<monster name="Orc Warrior" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1000" centery="923" centerz="7" radius="1">
-		<npc name="Easy_Tasks" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<npc name="Easy Tasks" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="984" centery="993" centerz="7" radius="1">
-		<npc name="Goblin_Bank" x="0" y="0" z="7" spawntime="60" direction="2" />
+		<npc name="Goblin Bank" x="0" y="0" z="7" spawntime="60" direction="2" />
 	</spawn>
 </spawns>

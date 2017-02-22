@@ -9,6 +9,7 @@ function onStepIn(creature, item, position, fromPosition)
 	if player:getLevel() < level then
 		player:sendTextMessage(MESSAGE_INFO_DESCR, "Only the worthy may pass.")
 		player:teleportTo(fromPosition, true)
+		
 		return false
 	end
 

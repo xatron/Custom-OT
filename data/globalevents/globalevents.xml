@@ -6,5 +6,6 @@
 
 	<!-- CUSTOM -->
 	<globalevent name="save" interval="7200000" script="custom/save.lua"/>
-	<globalevent name="magicEffects" interval="4000" script="custom/magicEffects.lua"/>
+	<globalevent name="magicEffects" interval="3500" script="custom/magicEffects.lua"/>
+	<globalevent name="token" interval="360000" script="custom/tokens.lua"/>
 </globalevents>
